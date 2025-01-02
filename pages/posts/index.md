@@ -4,6 +4,6 @@ display: ''
 art: plum
 ---
 
-<SubNav />
+<!-- <SubNav /> -->
 
 <ListPosts only-date type="blog" />

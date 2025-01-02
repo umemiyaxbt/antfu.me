@@ -1,7 +1,7 @@
 <script setup lang="ts">
+import type { Post } from '~/types'
 import { useRouter } from 'vue-router/auto'
 import { englishOnly, formatDate } from '~/logics'
-import type { Post } from '~/types'
 
 const props = defineProps<{
   type?: string
@@ -38,10 +38,11 @@ function isSameGroup(a: Post, b?: Post) {
   return (isFuture(a.date) === isFuture(b?.date)) && isSameYear(a.date, b?.date)
 }
 
-function getGroupName(p: Post) {
-  if (isFuture(p.date))
-    return 'Upcoming'
-  return getYear(p.date)
+// function getGroupName(p: Post) {
+function getGroupName() {
+  // if (isFuture(p.date))
+  return 'Blogs'
+  // return getYear(p.date)
 }
 </script>
 
@@ -62,7 +63,7 @@ function getGroupName(p: Post) {
           '--enter-step': '60ms',
         }"
       >
-        <span text-8em color-transparent absolute left--3rem top--2rem font-bold text-stroke-2 text-stroke-hex-aaa op10>{{ getGroupName(route) }}</span>
+        <span text-8em color-transparent absolute left--3rem top--2rem font-bold text-stroke-2 text-stroke-hex-aaa op10>{{ getGroupName() }}</span>
       </div>
       <div
         class="slide-enter"

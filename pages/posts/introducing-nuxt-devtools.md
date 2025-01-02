@@ -1,6 +1,6 @@
 ---
 title: Introducing Nuxt Devtools
-date: 2023-03-27T16:00:00Z
+date: 2025-03-27T16:00:00Z
 lang: en
 duration: 12min
 redirect: https://nuxt.com/blog/introducing-nuxt-devtools
