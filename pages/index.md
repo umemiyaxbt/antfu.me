@@ -5,12 +5,13 @@ image: https://antfu.me/og.png
 art: random
 ---
 
-Hi, I'm Umemiya (not my real name of course). I'm not an overly ambitious person, like someone who wants to be a market maker/quant or trader with a 100% winrate. For now my goal is just to be financially free and there's a number that I've calculated to keep me from not being greedy. I kind of forgot it, maybe from Seneca, correct me if I'm wrong.
+Hi, I'm Umemiya {@umemiyaxbt}.
+
+I'm not an overly ambitious person, like someone who wants to be a market maker or trader with a 100% winrate. For now my goal is just to be financially free and there's a number that I've calculated to keep me from not being greedy. I kind of forgot it, maybe from Seneca, correct me if I'm wrong.
 
 > A poor man is not one who has too little, but one who still wants more.
-> **~ Seneca**
 
-This website itself will talk a lot about crypto markets, programming, or other random topics, I don't know. Honestly this website is just to [record my progress](/posts), I mean maybe in a few years I want to look back and see how stupid I was. So, this website won't focus on education, but if you can get something out of it, that's great.
+This website itself will talk a lot about crypto markets, programming, or other random topics, I don't know. Honestly this website is just to [record my progress](/posts), maybe in a few years I want to look back and see how stupid I was. So, this website won't focus on education, but if you can get something out of it, that's great.
 
 Find me on
 
